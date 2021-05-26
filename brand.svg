@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="387" height="100" viewBox="0 0 387 100">
   <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,700;0,900;1,400&display=swap');
+    </style>
     <linearGradient id="linear-gradient" x1="1.36" y1="1.356" x2="0.135" y2="0.137" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#ff632d"/>
       <stop offset="1" stop-color="#ef3d49"/>
