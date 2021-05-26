@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="387" height="100" viewBox="0 0 387 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.36" y1="1.356" x2="0.135" y2="0.137" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff632d"/>
+      <stop offset="1" stop-color="#ef3d49"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1.452" y1="13.538" x2="-1.48" y2="13.51" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(-111 -96)">
+    <text id="Bawsla" transform="translate(208 176)" font-size="80" font-family="Mulish" font-weight="800"><tspan x="0" y="0">bawsla</tspan></text>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(111 104.14)">
+      <g id="Layer_1" data-name="Layer 1">
+        <g id="Icon_feather-compass-6" data-name="Icon feather-compass-6">
+          <path id="Path_68" data-name="Path 68" d="M42.273,0h0A42.273,42.273,0,1,0,84.546,42.273h0A42.273,42.273,0,0,0,42.273,0Zm-.437,77.639a35.8,35.8,0,1,1,35.8-35.8,35.8,35.8,0,0,1-35.8,35.8Z" fill="url(#linear-gradient)"/>
+          <path id="Path_65-5" data-name="Path 65-5" d="M72,38.067,63.748,62.828a1.493,1.493,0,0,1-.921.921L38.066,72a1.459,1.459,0,0,1-1.843-1.849L44.475,45.4a1.432,1.432,0,0,1,.921-.921l24.761-8.251A1.459,1.459,0,0,1,72,38.067Z" transform="translate(-11.838 -11.84)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
