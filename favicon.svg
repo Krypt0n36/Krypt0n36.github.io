@@ -12,9 +12,9 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Group_5" data-name="Group 5" transform="translate(-296 -984)">
+  <g id="Group_8" data-name="Group 8" transform="translate(-296 -984)">
     <g transform="matrix(1, 0, 0, 1, 296, 984)" filter="url(#Rectangle_268)">
-      <rect id="Rectangle_268-2" data-name="Rectangle 268" width="200" height="200" rx="7" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_268-2" data-name="Rectangle 268" width="200" height="200" rx="100" transform="translate(9 6)" fill="url(#linear-gradient)"/>
     </g>
     <g id="Icon_feather-compass" data-name="Icon feather-compass" transform="translate(353.284 1038.05)">
       <path id="Path_64" data-name="Path 64" d="M106.431,54.716A51.716,51.716,0,1,1,54.716,3a51.716,51.716,0,0,1,51.716,51.716Z" transform="translate(-3 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
